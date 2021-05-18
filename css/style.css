@@ -1,0 +1,58 @@
+html,
+body {
+	//font-family: \5FAE\8EDF\6B63\9ED1\9AD4,\65B0\7D30\660E\9AD4;
+	font-family: 'Noto Sans TC', sans-serif;
+	background-color: #F0F0F0;
+	min-height: 100%;
+}
+#page-container {
+	position: relative;
+}
+#body {
+	margin-top: 7%;
+	padding-bottom: 7%;
+}
+.image {
+	width: 2.5rem;
+}
+.card-deck {
+	margin-top: 5%;
+}
+.card {
+	margin: 0px auto;
+	width: 50%
+}
+#register_section,
+#login_section {
+	text-align: center;
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	color: white;
+}
+.help-block {
+	color: rgba(255,0,0,0.9);
+}
+.btn {
+	font-size: 1rem;
+	color: #FFFFFF;
+	background-color: rgba(130, 150, 200, 0.75);
+}
+#footer {
+	bottom: 0;
+	width: 100%;
+	margin-top: 15rem;
+}
+#footer ul li {
+	margin-top: 12px;
+	height: 36px;
+}
+#footer i {
+	margin-right: 16px;
+}
+#acc-table {
+	margin-bottom: 7rem;
+}
+#marketCard {
+	margin-bottom: 4%;
+}

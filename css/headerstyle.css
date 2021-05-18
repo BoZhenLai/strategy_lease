@@ -1,0 +1,14 @@
+.view {
+    background: url("../img/bgimg/bgimg.jpg")no-repeat center center;
+    background-size: cover;
+}
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+.navbar {
+    z-index: 200;
+    background-color: transparent;
+}
