@@ -1,0 +1,8 @@
+{
+    "db": {
+        "db_host": "localhost",
+        "db_name": "strategy",
+        "db_user": "root",
+        "db_password": ""
+    }
+}
